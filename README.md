@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Student Information Management System
 
 ## Overview
@@ -66,7 +66,7 @@ This application allows users to manage student records efficiently through a me
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/SohamAwati/Student-Management-System>
 cd student_management_system
 pip install -r requirements.txt
 python main.py
