@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+# Student Information Management System
+
+## Overview
+
+A professional console-based Student Information Management System developed using Python.
+
+This application allows users to manage student records efficiently through a menu-driven interface while demonstrating Object-Oriented Programming, JSON persistence, exception handling, logging, analytics, and clean software architecture.
+
+---
+
+## Features
+
+### Core Features
+
+- Add Student
 # Student Information Management System
 
 ## Overview
@@ -49,7 +65,12 @@ This application allows users to manage student records efficiently through a me
 
 ## Installation
 
-bash git clone <repository-url>  cd student_management_system  pip install -r requirements.txt  python main.py 
+```bash
+git clone <repository-url>
+cd student_management_system
+pip install -r requirements.txt
+python main.py
+```
 
 ---
 
